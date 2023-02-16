@@ -1,0 +1,21 @@
+h1{ 
+    font-family: 'Lucida Sans';
+    color: #000000;
+    font-style: italic;
+    
+    
+}
+body{
+    margin-left: 5ch;
+    margin-right: 5ch;
+    font-size: 20px;
+    font-style: normal;
+    font-family: Times;
+    color: #5A5A5A;
+}
+img{
+    height: 400px;
+}
+.h1{
+    border: #5A5A5A;
+}
