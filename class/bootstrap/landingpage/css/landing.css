@@ -1,0 +1,23 @@
+body{ 
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    background-color: #ebdefb;
+    color: #6950F7;
+}
+
+h1{
+    font-family: 'Gloock';
+    font-style: normal;
+    font-weight: 400;
+    font-weight: bold;
+    color: #674EF9;
+    text-align: center
+    
+}
+
+footer{
+    text-align: center;
+    font-size: small;
+}
