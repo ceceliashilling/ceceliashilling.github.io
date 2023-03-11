@@ -1,22 +1,82 @@
 
 body{
     text-align: center;
-    background-color: #FFC4C9;
-    font-family: 'Montserrat', sans-serif; 
+    background-color: #FFEBEC;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#header {
+    padding-top: 10%;
+}
+
+#intro{
+    padding-top: 10%;
+    background-color: #FFD6D8;
+}
+
+#background {
+   background-color: #FFADB1;
+   padding-top: 10%;
+}
+
+#expertise {
+    background-color: #FF999E;
+    }
+
+#writingsamples{
+    background-color: #FF858B;
+}
+
+#contact{
+    padding-top: 10%;
+    background-color: #FF7077;
+}
+
+hr {
+    padding: 5%;
 }
 
 h1{ 
     font-family: 'Gloock', serif;;
-    color: #5B2D29;
+    color: black;
 }
 
 h2{ 
+    padding: 5%;
     font-family: 'Gloock', serif;;
-    color: #5B2D29;
+    color: black;
+    text-align: center;
 }
 
 
 img {
     text-align: left;
 }
+
+p {
+    font-size: small;
+}
+
+.row {
+
+    padding-bottom: 10%;
+
+}
+
+col {
+    text-align: center;
+}
+
+.list-group-item {
+ background-color: #FFC4C9;
+ border-color: black;
+ border: 0ch;
+
+}
+.list-group {
+    padding: 3%;
+}
+
+
 
