@@ -1,0 +1,105 @@
+body {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    padding: 5%;
+}
+
+a {
+    color: #0E171A;
+    text-decoration: underline;
+    text-decoration-color: #b2322d;
+}
+
+a:hover {
+    color: #b2322d;
+}
+
+#header{
+    padding: 10% 5%;
+    background-color: #0E171A;
+    color: #fafafa;
+}
+
+#header h1 {
+    font-size: 3em;
+}
+
+#header p {
+    font-size: .65em;
+    letter-spacing: 1.5px;
+}
+
+#header a {
+    color: #fafafa;
+    text-decoration-color: #fafafa;
+}
+
+img {
+    max-width: 100%;
+    min-height: 100%;
+}
+
+
+h1, h2, h3, h4 {
+    font-family: 'Cabin Condensed', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+h4 {
+    padding: 5%;
+    font-size: 1.25em;
+    text-align: center;
+    color: #b2322d;
+}
+
+.timeline {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: .95em;
+    border-left: 3px solid #b2322d;
+}
+
+.graphic {
+    padding-bottom: 5%;
+}
+
+b {
+    padding: .20em 0;
+    background: #b2322d;
+    color: #fafafa;
+}
+
+footer {
+    text-align: center;
+    font-size: .85em;
+    color: gray;
+    padding: 5%;
+}
+
+@media only screen and (max-width: 768px) {
+    #header {
+        text-align: center;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        margin-top: 16px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    h4 {
+        padding-bottom: 10%;
+    }
+}
+
